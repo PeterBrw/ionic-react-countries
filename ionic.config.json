@@ -1,0 +1,7 @@
+{
+  "name": "Countries",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
